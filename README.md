@@ -1,2 +1,2 @@
-# Git is free.
-# Git is DVCS.
+# Git is free....
+# Git is Distributed version control system.
